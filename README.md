@@ -6,7 +6,7 @@ Based on Szymon Roslowski's 3 fantastic articles on www.codeproject.com:
 📎 [HID USB Stack part 2](https://www.codeproject.com/Articles/832135/Microchip-PIC-F-USB-Stack-Part)  
 📎 [C# USB HID Interface](https://www.codeproject.com/Tips/530836/Csharp-USB-HID-Interface)
 
-My contribution/patch for UsbHid class is contained in the Addendum folder: there is a distinction between SingleDevice and SingleHID because for a composite HID, VID and PID are not enough to differentiate and select a HID, and Interface number MI is also checked. 
+My contribution/patch for UsbHid class is contained in the Addendum folder: there is a distinction between SingleDevice and SingleHID because for a composite HID, VID and PID are not enough to differentiate and select a HID, and Interface number MI is also checked.  
 Also DeviceDiscovery class uses [UsbNotification](https://stackoverflow.com/questions/16245706/check-for-device-change-add-remove-events) for detecting dis/connection of the USB device.  
 
 ### Table of Contents (Wiki)
