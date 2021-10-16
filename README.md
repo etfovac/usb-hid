@@ -1,5 +1,5 @@
 # hid
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/hid/blob/master/LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/hid/blob/main/LICENSE) 
 
 ### Table of Contents (Wiki)
 [Wiki Home](https://github.com/etfovac/hid/wiki)  
