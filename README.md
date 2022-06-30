@@ -1,5 +1,5 @@
 # USB HID communication in C#
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/hid/blob/main/LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/hid/blob/main/LICENSE) [![DOI](https://zenodo.org/badge/332246012.svg)](https://zenodo.org/badge/latestdoi/332246012)
 
 Based on Szymon Roslowski's 3 fantastic articles on www.codeproject.com:  
 📎 [HID USB Stack part 1](https://www.codeproject.com/Articles/830856/Microchip-PIC-F-USB-Stack)  
