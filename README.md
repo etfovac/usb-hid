@@ -10,11 +10,11 @@ My contribution/patch for UsbHid class is contained in the Addendum folder: ther
 Also DeviceDiscovery class uses [UsbNotification](https://stackoverflow.com/questions/16245706/check-for-device-change-add-remove-events) for detecting dis/connection of the USB device.  
 
 ### Table of Contents (Wiki)
-[Wiki Home](https://github.com/etfovac/hid/wiki)  
-[Overview](https://github.com/etfovac/hid/wiki/Overview)  
-[Notes](https://github.com/etfovac/hid/wiki/Notes)  
-[Examples](https://github.com/etfovac/hid/wiki/Examples)  
-[References](https://github.com/etfovac/hid/wiki/References) 
+[Wiki Home](https://github.com/etfovac/usb-hid/wiki)  
+[Overview](https://github.com/etfovac/usb-hid/wiki/Overview)  
+[Notes](https://github.com/etfovac/usb-hid/wiki/Notes)  
+[Examples](https://github.com/etfovac/usb-hid/wiki/Examples)  
+[References](https://github.com/etfovac/usb-hid/wiki/References) 
 
 
-[hid](https://github.com/etfovac/hid) is maintained by [etfovac](https://github.com/etfovac).
+[hid](https://github.com/etfovac/usb-hid) is maintained by [etfovac](https://github.com/etfovac).
