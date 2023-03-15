@@ -17,4 +17,4 @@ Also DeviceDiscovery class uses [UsbNotification](https://stackoverflow.com/ques
 [References](https://github.com/etfovac/usb-hid/wiki/References) 
 
 
-[hid](https://github.com/etfovac/usb-hid) is maintained by [etfovac](https://github.com/etfovac).
+[usb-hid](https://github.com/etfovac/usb-hid) is maintained by [etfovac](https://github.com/etfovac).
